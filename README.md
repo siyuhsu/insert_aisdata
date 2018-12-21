@@ -1,4 +1,4 @@
-[!insert_aisdata](https://github.com/xu6/insert_aisdata/blob/master/insert_aisdata.ipynb)
+[insert_aisdata.ipynb](https://github.com/xu6/insert_aisdata/blob/master/insert_aisdata.ipynb)
 # 将ais数据插入到Mongodb中
 2018年1-9月所有数据，大约500G，62亿条
 # 环境
