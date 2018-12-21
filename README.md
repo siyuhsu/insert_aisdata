@@ -1,5 +1,5 @@
 # 将ais数据插入到Mongodb中
-2018年1-9月所有数据，大约六百G，62亿条
+2018年1-9月所有数据，大约500G，62亿条
 # 环境
 OS: centos7
 CPU: 4 * Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
